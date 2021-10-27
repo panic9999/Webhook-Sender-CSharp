@@ -1,0 +1,10 @@
+C:\Users\Lars\source\repos\Webhook Sender\Webhook Sender\bin\Debug\Webhook Sender.exe.config
+C:\Users\Lars\source\repos\Webhook Sender\Webhook Sender\bin\Debug\Webhook Sender.exe
+C:\Users\Lars\source\repos\Webhook Sender\Webhook Sender\bin\Debug\Webhook Sender.pdb
+C:\Users\Lars\source\repos\Webhook Sender\Webhook Sender\obj\Debug\Webhook_Sender.Panel.resources
+C:\Users\Lars\source\repos\Webhook Sender\Webhook Sender\obj\Debug\Webhook_Sender.Properties.Resources.resources
+C:\Users\Lars\source\repos\Webhook Sender\Webhook Sender\obj\Debug\Webhook Sender.csproj.GenerateResource.cache
+C:\Users\Lars\source\repos\Webhook Sender\Webhook Sender\obj\Debug\Webhook Sender.csproj.CoreCompileInputs.cache
+C:\Users\Lars\source\repos\Webhook Sender\Webhook Sender\obj\Debug\Webhook Sender.exe
+C:\Users\Lars\source\repos\Webhook Sender\Webhook Sender\obj\Debug\Webhook Sender.pdb
+C:\Users\Lars\source\repos\Webhook Sender\Webhook Sender\obj\Debug\Webhook Sender.csprojAssemblyReference.cache
